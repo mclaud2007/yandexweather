@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  YandexWeather
+
+  Created by Григорий Мартюшин on 25.02.2021.
+  
+*/
+"Error loading forecast" = "Ошибка загрузки прогноза";
+"City search" = "Поиск города";
+"Error data loading" = "Ошибка загрузки";
+"Error" = "Ошибка";
+"City list" = "Список городов";
+"clear" = "ясно";
+"partlyCloudy" = "малооблачно";
+"cloudy" = "облачно с прояснениями";
+"overcast" = "пасмурно";
+"drizzle" = "морось";
+"lightRain" = "небольшой дождь";
+"rain" = "дождь";
+"moderateRain" = "умеренно сильный дождь";
+"heavyRain" = "сильный дождь";
+"continuousHeavyRain" = "длительный сильный дождь";
+"showers" = "ливень";
+"wetSnow" = "дождь со снегом";
+"lightSnow" = "небольшой снег";
+"snow" = "снег";
+"snowShowers" = "снегопад";
+"hail" = "град";
+"thunderstorm" = "гроза";
+"thunderstormWithRain" = "дождь с грозой";
+"thunderstormWithHail" = "гроза с градом";
+"Unknown" = "неизвестно";
+"feelsLikeString" = "Ощущается как %i";
+"pressureString" = "Даление %i мм. рт. ст.";
+"humidityString" = "Влажность %i%";
+"windSpeedString" = "Скорость %.01fм/с, %@";

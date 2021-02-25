@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  YandexWeather
+
+  Created by Григорий Мартюшин on 25.02.2021.
+  
+*/
+"Error loading forecast" = "Error loading forecast";
+"City search" = "City search";
+"Error data loading" = "Error data loading";
+"Error" = "Error";
+"City list" = "City list";
+"clear" = "Clear";
+"partlyCloudy" = "Partly Cloudy";
+"cloudy" = "Cloudy";
+"overcast" = "Overcast";
+"drizzle" = "Drizzle";
+"lightRain" = "Light Rain";
+"rain" = "Rain";
+"moderateRain" = "Moderate Rain";
+"heavyRain" = "Heavy rain";
+"continuousHeavyRain" = "Continuous heavy rain";
+"showers" = "Showers";
+"wetSnow" = "Wet snow";
+"lightSnow" = "Light snow";
+"snow" = "Snow";
+"snowShowers" = "Snow showers";
+"hail" = "Hail";
+"thunderstorm" = "Thunderstorm";
+"thunderstormWithRain" = "Thunderstorm with rain";
+"thunderstormWithHail" = "Thunderstorm with hail";
+"Unknown" = "Unknown";
+"feelsLikeString" = "Feels like %i";
+"pressureString" = "Pressure %i mm. rt.";
+"humidityString" = "Humidity %i%";
+"windSpeedString" = "Wind speed %.01f m/s, %@";
